@@ -1,0 +1,1 @@
+const String linkServerName = "https://v6.exchangerate-api.com/v6/91f31df4bc5b78fa030e9ce1/latest/USD";
